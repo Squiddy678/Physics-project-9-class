@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Physics project 9 class/1.0.0": {
+        "runtime": {
+          "Physics project 9 class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Physics project 9 class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
